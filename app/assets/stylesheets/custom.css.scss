@@ -1,0 +1,48 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#logo{
+    float: left;
+    font-size: 3em;
+    color: orange;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+.link-css{
+    color: blue;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.login{
+    border: 2px solid orange;
+    border-radius: 20px;
+    margin-left: 900px;
+    margin-right: 20px;
+}
+.signup{
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+.jumbotron{
+    font-weight: bold;
+    letter-spacing: -1px;
+    background-image: asset-url("images.jpeg");
+    text-align: center;
+    color: orangered;
+    height: 750px;
+}
+
+.home{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.btn-lg{
+    margin-left: 800px;
+    border-radius: 40px;
+    padding: 40px;
+    font-size: 4em;
+}
