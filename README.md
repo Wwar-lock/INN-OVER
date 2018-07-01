@@ -1,25 +1,7 @@
-# README
+# blog_creation:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. CRUD is Done
 
-Things you may want to cover:
+2. Styling under process.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# blog_creation
+3. Authentication under process.
