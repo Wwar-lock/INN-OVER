@@ -2,6 +2,6 @@
 
 1. CRUD is Done
 
-2. Styling under process.
+2. Styling under process.(Done 70%)
 
-3. Authentication under process.
+3. Authentication under process.(About To Complete)
