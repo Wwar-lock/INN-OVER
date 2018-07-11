@@ -1,5 +1,5 @@
 module ApplicationHelper
-    def gravatar_for(user, options = { size: 150})
+    def gravatar_for(user, options = { size: 300})
 
         gravatar_id = Digest::MD5::hexdigest(user.email.downcase)
 
