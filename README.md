@@ -4,4 +4,8 @@
 
 2. Styling under process.(Done 70%)
 
-3. Authentication under process.(About To Complete)
+3. Authentication under process.(Completed)
+
+4. Database (80% completed)
+
+5. Gemfiles Updated.
