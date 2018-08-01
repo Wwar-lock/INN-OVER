@@ -1,6 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+
 #logo{
     float: left;
     font-size: 3em;
@@ -16,6 +17,13 @@
     text-decoration: none;
 }
 
+.button{
+    background-color: bisque;
+    width: 250px;
+    height: 140px;
+    font-family: 'Source Code Pro', monospace;
+}
+
 .login{
     border: 2px solid orange;
     border-radius: 20px;
@@ -28,10 +36,12 @@
 }
 .jumbotron{
     font-weight: bold;
+    margin: auto;
     letter-spacing: -1px;
-    background-image: asset-url("images.jpeg");
+    background-image: asset-url("cover1.jpg");
     text-align: center;
     color: orangered;
+    font-family: 'Hanalei Fill', cursive;
     height: 700px;
 }
 
@@ -84,4 +94,14 @@
 
 .navbar-right{
     margin-right: 0;
+}
+
+.footer{
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    background-color: aqua;
+    color: black;
+    text-align: center;
 }
