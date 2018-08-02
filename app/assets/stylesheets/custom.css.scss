@@ -33,7 +33,7 @@
 .loginUser{
     color: red;
     font-size: 20px;
-    ont-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
 }
 
 .login{
@@ -50,16 +50,19 @@
     font-weight: bold;
     margin: auto;
     letter-spacing: -1px;
-    background-image: asset-url("cover1.jpg");
+    background-image: asset-url("cover4.jpg");
+    background-size: cover;
     text-align: center;
-    color: orangered;
+    color: greenyellow;
     font-family: 'Hanalei Fill', cursive;
-    height: 700px;
+    height: 720px;
 }
 
 .home{
     padding-top: 150px;
     padding-bottom: 150px;
+    font-size: 40px;
+    font-family: 'Bree Serif', serif;
 }
 
 .btn-lg{
@@ -112,6 +115,7 @@
     position: fixed;
     left: 0%;
     bottom: 0%;
+    margin-top: 20px;
     width: 100%;
     background-color: aqua;
     color: black;

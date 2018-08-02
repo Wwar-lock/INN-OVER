@@ -1,4 +1,11 @@
 <div class="jumbotron">
-    <h1 class="home"><i>READ,WRITE AND INNOVATE</i></h1>
+    <h1 class="home"><i><span id="typed">READ,WRITE AND INNOVATE</span></i></h1>
     <%= link_to "Sign Up",signup_path,class: "button btn-lg" %>
+    
 </div>
+
+<script>
+  var typed = new Typed('#typed', {
+    stringsElement: ''
+  });
+</script>
