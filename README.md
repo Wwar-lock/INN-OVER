@@ -11,3 +11,5 @@
 5. Gemfiles Updated.
 
 6. Admin Functionality and Priviliges are set.
+
+7. Associations are going to be added.
